@@ -3,3 +3,6 @@ Yash was leading exciting projects at Diginoor Inc. These projects include India
 
 ## Website
 https://linktr.ee/yrraadi
+
+## Education
+Bachelor's of Science in Computer Science at University of Illinois at Urbana-Champaign
