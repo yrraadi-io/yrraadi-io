@@ -6,5 +6,8 @@ Yash is currently researching image segmentation in DLOs, by training models lik
 ## Website
 https://linktr.ee/yrraadi
 
+## Side project
+https://fuckgeneds.com/ (First AI writing tool by the students, for the students -- Free!)
+
 ## Education
 Bachelor's of Science in Computer Science at University of Illinois at Urbana-Champaign
